@@ -1,0 +1,14 @@
+/* Đặt màu xanh lá cho giá trị Low */
+.urgent-low {
+    color: green;
+}
+
+/* Đặt màu vàng cho giá trị Medium */
+.urgent-medium {
+    color: yellow;
+}
+
+/* Đặt màu đỏ cho giá trị High */
+.urgent-high {
+    color: red;
+}
